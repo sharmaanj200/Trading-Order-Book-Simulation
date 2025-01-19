@@ -40,9 +40,3 @@ This project implements a simplified **order matching system** commonly used in 
 - **Priority Queues**: Used for efficient order matching.
 - **OOP Principles**: Encapsulated logic within `Order` and `OrderBook` classes.
 
----
-
-## Getting Started
-### Prerequisites
-- A C++ compiler (e.g., GCC or Clang).
-- Basic knowledge of terminal/command-line tools.
